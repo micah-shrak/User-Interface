@@ -64,3 +64,114 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+.row {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+section {
+    padding: 80px 0;
+}
+nav {
+	
+}
+ul {
+	display: inline-block;
+}
+hr {
+	color: #000000;
+}
+
+.main-nav li {
+	display: inline-block;
+	margin-left: 45px;
+	
+
+}
+
+a:link, a:visited {
+	text-decoration: none;
+	color: #000000;
+}
+
+.logo {
+	margin-left: 180px;
+	padding: 15px;
+}
+.hero-img {
+	margin-left: 160px;
+}
+
+.main {
+	width: 100%;
+	padding-top: 25px;
+}
+
+h2 {
+	font-size: 100px;
+	text-align: center;
+}
+
+.btn-full {
+	margin-left: 175px;
+	display: inline-block;
+    padding: 10px 50px;
+    text-decoration: none;
+	border: 1px solid #000000;
+	color: #000000;
+}
+p {
+	display: inline-block;
+	padding: 10px;
+}
+
+hr {
+	width: 1140px;
+}
+
+h3 {
+	padding: 5px;
+}
+
+.middle-img {
+	padding: 10px;
+	width: 100%;
+}
+
+.column-2 {
+	margin: 0.25em auto;
+    vertical-align: top;
+    display: inline-block;
+	width: 49%; 
+	padding-bottom: 15px;
+
+}
+
+.column-3 {
+	margin: 0.25em auto;
+    vertical-align: top;
+    display: inline-block;
+	width: 32.3333%;
+	padding-top: 15px;
+	padding-bottom: 15px;
+    
+}
+
+address {
+	padding-top: 20px;
+}
+
+.phone-number {
+	padding-top: 15px;
+}
+
+.email {
+	padding-top: 15px;
+}
+
+.copyright {
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 50px;
+
+}
